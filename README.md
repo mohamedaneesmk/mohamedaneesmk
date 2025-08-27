@@ -1,22 +1,7 @@
 ## Hi there 👋
 
-<!--
-**mohamedaneesmk/mohamedaneesmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👋 Hi, I’m Mohamed Anees  
-💻 Programmer Analyst Trainee @ Cognizant | SAP MDG Intern  
+# 👋 Hi, I’m Mohamed Anees M K
+💻 Programmer Analyst Trainee @ Cognizant | SAP Financial Management  
 🛠 Crafting Solutions that Blend Tech with Creativity  
 
 ---
@@ -35,22 +20,41 @@ Coming Soon...
 ---
 
 ### 🛠 Tech & Tools  
-- **Languages:** Java | Python | C | JavaScript  
-- **Web:** HTML | CSS | MySQL  
-- **SAP:** MDG (Master Data Governance)  
-- **Tools:** GitHub | Figma | Premiere Pro | Photoshop | VS Code | IntelliJ IDEA | Eclipse  
+
+#### 🚀 Languages & Frameworks  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>  
+</p>  
+
+#### ⚙️ Tools & Platforms  
+<p align="left">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/>  
+</p>  
 
 ---
 
 ### 📊 GitHub Stats  
 
-![Anees's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anees-Saleem&show_icons=true&theme=radical)  
+![Anees's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaneesmk&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anees-Saleem&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaneesmk&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anees-Saleem&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedaneesmk&theme=radical)  
 
-![Anees's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anees-Saleem&theme=react-dark&hide_border=true&area=true)  
+![Anees's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedaneesmk&theme=react-dark&hide_border=true&area=true)  
 
 ---
 
@@ -71,7 +75,8 @@ Coming Soon...
 ---
 
 ### 📬 Reach Out To Me  
-[LinkedIn](https://www.linkedin.com/in/mohamed-anees/) | [Instagram](https://www.instagram.com/Anees_Saleem)  
+<a href="https://www.linkedin.com/in/mohamedaneesmk/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>  
+<a href="https://www.instagram.com/editor_anees/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"></a>  
 
 ---
 ✨ *Config files for my GitHub profile.*
