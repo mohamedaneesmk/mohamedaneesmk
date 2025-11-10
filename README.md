@@ -1,77 +1,36 @@
-## 👋 Hi, I’m **Mohamed Anees M K**
+Hi there 👋 I'm Mohamed Anees
 
-💻 **Java Full Stack Developer** | Programmer Analyst Trainee @ Cognizant  
-🛠 Building Scalable Backend Systems + Clean Frontend Experiences
+Programmer Analyst Trainee @ Cognizant
+🎓 Electrical and Computer Engineering | SJCE
+💡 Aspiring Technical Architect | Passionate Video Editor & Developer
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
----
+🔭 Check out my Portfolio
+ (coming soon!)
 
-### 😌 About Me  
-- Currently working in **SAP Financial Management & Analytics**  
-- Skilled in **Java, Spring Boot, Python, Web Development & MySQL**  
-- Passionate **Video Editor**, **Meme Creator**, and **Creative Designer**  
-- Interested in **Cloud, Microservices & Software Architecture**  
-- ⭐ Dream Role → **Technical Architect**
+🌱 Currently learning SAP MDG, Python, and Linux
 
----
+💻 Completed Projects: Smart Attendance System | Chat App in Java | Taxi Booking System | Spotify UI (Figma) | E-commerce Frontend
 
-### 🚀 Tech Stack
+💬 Ask me about Java, Web Development, Video Editing, and Figma UI Design
 
-#### **Languages & Frameworks**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-</p>
+🧠 Interests: Software, Hardware, and IoT Applications
 
-#### **Tools & Platforms**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="45" height="45"/>
-</p>
+⚡ Fun fact: I run a meme page on Instagram 😄
 
----
+🌐 Connect with Me
 
-### 🏗 Featured Full Stack Projects
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
-| Project | Stack | Description |
-|--------|-------|-------------|
-| **LocalConnect - Service Marketplace** *(Java Full Stack)* | React, Spring Boot, MySQL, JWT | Connects users with local service providers. Real-time chat + Booking workflow. |
-| **Taxi Booking System** | Java, OOP, File Handling | A CLI-based ride booking flow with fare calculation. |
-| **Chat Application** | Java Sockets + GUI | Real-time chat system using socket programming. |
-| **Smart Attendance System** | Java + MySQL | Digital attendance with report generation. |
+<img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />
 
-> *(Your LocalConnect project will be added soon after we finish building it 🔥)*
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 
----
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-### 🏆 Certifications & Achievements
-- **Java Gold Badge** – HackerRank  
-- **DBMS Certification** – NPTEL  
-- **Wipro TalentNext** – Java Full Stack  
-- **Internship Experience** – Cognizant SAP Analytics & MDG Domain  
-
----
-
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=mohamedaneesmk&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaneesmk&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=mohamedaneesmk&theme=radical)
-
----
-
-### 📬 Connect With Me
-<a href="https://www.linkedin.com/in/mohamedaneesmk/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"></a>
-<a href="https://www.instagram.com/editor_anees/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/></a>
-
----
-
-⭐ *Aiming for Growth. Learning Every Day. Trusting Allah’s Plan.*  
+💻 I Code In
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+🧰 IDEs and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/notion.png"/>
+🧑‍💻 Workspace Setup
+<img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
