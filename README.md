@@ -8,7 +8,7 @@
 ### 😌 About Me  
 - Currently working in **SAP Financial Management & Analytics**  
 - Skilled in **Java, Spring Boot, Python, Web Development & MySQL**  
-- Passionate **Video Editor**, **Meme Creator**, and **Creative Designer**  
+- Passionate **Video Editor**, and **Creative Designer**  
 - Interested in **Cloud, Microservices & Software Architecture**  
 - ⭐ Dream Role → **Technical Architect**
 
