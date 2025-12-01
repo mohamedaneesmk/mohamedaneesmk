@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Anees M K</h1>
 <h3 align="center">A passionate Java Full Stack Developer from Chennai, India</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedaneesmk" alt="mohamedaneesmk" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedaneesmk" alt="mohamedaneesmk" /></a> </p> -->
 
 - 🔭 I’m currently working on **🔭 I'm currently working on mastering Data Structures & Algorithms and building full-stack applications with Spring Boot and React**
 
