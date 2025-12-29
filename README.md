@@ -21,8 +21,6 @@
 
 - 📫 Reach me at **mohamedaneesmk@gmail.com**
 
-<br/>
-
 ### 🔗 Links
 
 - 👨‍💻 Portfolio: [portfolio-website-dd0d5.web.app](https://portfolio-website-dd0d5.web.app/)
