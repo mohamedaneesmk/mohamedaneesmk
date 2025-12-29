@@ -25,6 +25,7 @@
 
 - 👨‍💻 Portfolio: [portfolio-website-dd0d5.web.app](https://portfolio-website-dd0d5.web.app/)
 - 📄 Resume: [Google Drive](https://drive.google.com/drive/u/0/my-drive)
+<br/>
 
 </td>
 <td width="50%" valign="top">
