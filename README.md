@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Anees</h1>
 
 <h3 align="center">
-☕ Java Full Stack Developer | Spring Boot • React | DSA Enthusiast
+☕ Java Backend Developer | Spring Boot • React | DSA Enthusiast
 </h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 # 🚀 About Me
 
 - 💼 Programmer Analyst @ Cognizant
-- ☕ Java Full Stack Developer passionate about building scalable applications.
+- ☕ Java Full Backend Developer passionate about building scalable applications.
 - 🌱 Currently learning **Spring Security, Docker, AWS, and System Design**.
 - 📚 Solving **Striver's A2Z DSA Sheet** consistently.
 - 🚀 Interested in Backend Development, REST APIs, and Full Stack Web Applications.
