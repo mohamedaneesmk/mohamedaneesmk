@@ -1,142 +1,194 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Anees</h1>
+
 <h3 align="center">
-🌐 Java Backend Developer | Passionate Problem Solver | Building
-Modern Web Experiences
+☕ Java Full Stack Developer | Spring Boot • React | DSA Enthusiast
 </h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=
-true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+
-%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+A
-wesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Solving+DSA+Every+Day;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
 </p>
+
 ---
-## 🚀 About Me
-- 💻 I'm a **Java Backend Developer** passionate about creating
-responsive and user-friendly web applications.
-- 🚀 I enjoy turning ideas into real-world projects.
-- 🌱 Currently learning **Next.js, TypeScript, and Cloud
-Technologies**.
-- 🤝 Open to collaborating on exciting web development and opensource
-projects.
-- 📚 Always exploring modern technologies and best development
-practices.
-- ⚡ Fun Fact: **I love solving coding challenges and building
-useful applications.**
+
+# 🚀 About Me
+
+- 💼 Programmer Analyst @ Cognizant
+- ☕ Java Full Stack Developer passionate about building scalable applications.
+- 🌱 Currently learning **Spring Security, Docker, AWS, and System Design**.
+- 📚 Solving **Striver's A2Z DSA Sheet** consistently.
+- 🚀 Interested in Backend Development, REST APIs, and Full Stack Web Applications.
+- 🤝 Open to collaborating on Java, Spring Boot, and Open Source projects.
+- ⚡ Fun Fact: I enjoy solving coding challenges and continuously improving my problem-solving skills.
+
 ---
-## 🌐 Connect With Me
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="[LinkedIn URL]">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=forthe-
-badge&logo=linkedin"/>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="[Portfolio URL]">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=forthe-
-badge&logo=vercel"/>
+
+<a href="https://github.com/mohamedaneesmk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="mailto:[Email Address]">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-thebadge&
-logo=gmail"/>
+
+<a href="https://YOUR-PORTFOLIO.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
+
 ---
+
 # 💻 Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?
-i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,firebase,
-tailwind,bootstrap,git,github,vscode,figma,postman,npm,vite"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,mongodb,react,js,html,css,git,github,docker,postman,vscode,linux,maven,hibernate" />
 </p>
+
 ---
+
 # 🚀 Featured Projects
-## 🌍 Portfolio Website
-Modern personal portfolio showcasing projects, skills, and
-experience.
+
+## 🎓 Student Management System
+
+A Full Stack CRUD application for managing student records.
+
 **Tech Stack**
-`HTML` `CSS` `JavaScript` `React`
-🔗 Live Demo: [Portfolio URL]
-📂 Repository: [GitHub Repository]
+
+`Java` `Spring Boot` `React` `MySQL`
+
+🔗 Live Demo: Coming Soon
+
+📂 Repository: https://github.com/mohamedaneesmk/student-management-system
+
 ---
+
+## 📚 Striver's A2Z DSA Sheet
+
+Solutions to Striver's A2Z DSA Sheet in Java with clean, well-documented code.
+
+**Tech Stack**
+
+`Java`
+
+📂 Repository: https://github.com/mohamedaneesmk/Strivers-A2Z-Sheet
+
+---
+
 ## 🛒 E-Commerce Website
-A responsive online shopping platform with authentication and cart
-functionality.
+
+Responsive e-commerce application with authentication and shopping cart.
+
 **Tech Stack**
-`React` `Node.js` `Express` `MongoDB`
-🔗 Live Demo: [Project URL]
-📂 Repository: [GitHub Repository]
+
+`React` `Spring Boot` `MySQL`
+
+🔗 Live Demo: Coming Soon
+
+📂 Repository: Add Repository Link
+
 ---
-## ✅ Task Management App
-A productivity application to organize daily tasks with
-authentication.
-**Tech Stack**
-`React` `Firebase` `Tailwind CSS`
-🔗 Live Demo: [Project URL]
-📂 Repository: [GitHub Repository]
----
+
 # 📊 GitHub Stats
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?
-username=[GitHubUsername]&show_icons=true&theme=tokyonight&hide_bord
-er=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/
-top-langs/?
-username=[GitHubUsername]&layout=compact&theme=tokyonight&hide_borde
-r=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedaneesmk&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaneesmk&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
 ---
+
 # 🔥 GitHub Streak
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?
-user=[GitHubUsername]&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaneesmk&theme=tokyonight&hide_border=true"/>
+
 </p>
+
 ---
+
 # 📈 Contribution Graph
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?
-username=[GitHubUsername]&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedaneesmk&theme=tokyo-night"/>
+
 </p>
+
 ---
+
 # 🏆 GitHub Trophies
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?
-username=[GitHubUsername]&theme=tokyonight&no-frame=true&marginw=
-10"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedaneesmk&theme=tokyonight&no-frame=true&margin-w=10"/>
+
 </p>
+
 ---
+
 # 🛠 Currently Working On
-- 🚀 Building full-stack web applications.
-- 🌱 Learning advanced React ecosystem.
-- ☁️ Exploring cloud deployment and DevOps.
-- 📱 Improving responsive UI/UX design.
+
+- 🚀 Building Java Full Stack applications.
+- 📚 Solving Striver's A2Z DSA Sheet.
+- ☕ Developing REST APIs using Spring Boot.
+- ☁️ Learning Docker and AWS.
+
 ---
+
 # 📚 Currently Learning
-- TypeScript
-- Next.js
+
+- Spring Security
 - Docker
 - AWS
 - System Design
-- Backend Architecture
+- Microservices
+
 ---
+
 # 🎯 Goals for 2026
+
+- ✅ Complete Striver's A2Z DSA Sheet
 - ✅ Contribute to Open Source
-- ✅ Build SaaS Applications
-- ✅ Master Full Stack Development
-- ✅ Learn Cloud Computing
-- ✅ Grow My Developer Portfolio
+- ✅ Build Production-Level Spring Boot Projects
+- ✅ Learn Cloud & DevOps
+- ✅ Crack Top Product-Based Company Interviews
+
 ---
+
 # 💡 Favorite Quote
-> "Code is like humor. When you have to explain it, it's bad." –
-Cory House
+
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
+
 ---
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?
-username=[GitHubUsername]&label=Profile+Views&color=0e75b6&style=fla
-t"/>
+
+<img src="https://komarev.com/ghpvc/?username=mohamedaneesmk&label=Profile+Views&color=0e75b6&style=flat"/>
+
 </p>
+
 ---
+
 <h3 align="center">
+
 ⭐ Thanks for visiting my profile! ⭐
+
 </h3>
+
 <p align="center">
-If you like my work, consider giving a ⭐ to my repositories and
-connecting with me.
+
+If you like my work, consider giving a ⭐ to my repositories and connecting with me.
+
 </p>
