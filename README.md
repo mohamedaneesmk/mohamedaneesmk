@@ -226,5 +226,5 @@ If you like my work, consider giving a ⭐ to my repositories and connecting wit
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedaneesmk&show_icons=true&locale=en" alt="mohamedaneesmk" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedaneesmk&" alt="mohamedaneesmk" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedaneesmk&show_icons=true&locale=en&layout=compact" alt="mohamedaneesmk" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedaneesmk" alt="mohamedaneesmk" /></a></p>
+<!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedaneesmk" alt="mohamedaneesmk" /></a></p> -->
 
